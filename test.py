@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-
+print("Hello World")
 # Create a blank image
 image = np.zeros((400, 600, 3), dtype=np.uint8)
 
